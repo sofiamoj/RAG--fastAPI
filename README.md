@@ -21,4 +21,11 @@ Implement Retrieval Augmented Generation (RAG) using OpenAI’s text embedding m
 # Pinecone Queries for Top-k Similar Documents: 
 Leverage Pinecone’s query capabilities to retrieve the most relevant documents based on similarity. It’s a crucial step in building effective recommendation systems.
 # OpenAI for Natural Language Generation: 
-Whether you choose the Turbo model or another variant, OpenAI’s language models excel at generating natural and contextually relevant text.
+Whether you choose the Turbo model or another variant, OpenAI’s language models excel at generating natural and contextually relevant text. 
+
+
+# Some Additional Tips for Setup the Project:
+1. Setting Up the Environment:
+Before diving into development, create a virtual environment for your Python project. Virtual environments help isolate dependencies and ensure a clean workspace. You can find more information about setting up virtual environments in the official Python documentation.
+2. OpenAI API Key:
+To use OpenAI services, you’ll need an API key. If you haven’t already, sign up for an account on the OpenAI platform and obtain your API key. This key allows you to access powerful language models and other AI capabilities.
